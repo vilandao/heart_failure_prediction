@@ -1,0 +1,5 @@
+Add ignored files
+.ipynb_checkpoints/
+*.csv
+
+
